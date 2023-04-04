@@ -65,12 +65,12 @@
 		<button onclick="insert('4')">4</button>
 		<button onclick="insert('5')">5</button>
 		<button onclick="insert('6')">6</button>
-		<button onclick="insert('+')">+</button>
+		<button onclick="insert('0')">0</button>
 		<br>
 		<button onclick="insert('1')">1</button>
 		<button onclick="insert('2')">2</button>
 		<button onclick="insert('3')">3</button>
-		<button onclick="insert('0')">0</button>
+		<button onclick="insert('+')">+</button>
 		<br>
 		<button onclick="insert('-')">-</button>
 		<button onclick="insert('.')">.</button>
