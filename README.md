@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Scientific Calculator</title>
+	<link rel="stylesheet" href="create.css">
 	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 	<script src="calculator.js"></script>
 	<style>
