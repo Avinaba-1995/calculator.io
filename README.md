@@ -70,9 +70,9 @@
 		<button onclick="insert('1')">1</button>
 		<button onclick="insert('2')">2</button>
 		<button onclick="insert('3')">3</button>
-		<button onclick="insert('-')">0</button>
+		<button onclick="insert('0')">0</button>
 		<br>
-		<button onclick="insert('0')">-</button>
+		<button onclick="insert('-')">-</button>
 		<button onclick="insert('.')">.</button>
 		<button onclick="calculate()">=</button>
 		<button onclick="insert('*')">*</button>
